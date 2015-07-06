@@ -25,4 +25,6 @@ Below is a short list.
 
 The libraries are compatible with composer and ZendFramework2.
 
+##Copyright
 
+Copyright, Voyager Components Inc., all rights reserved.
