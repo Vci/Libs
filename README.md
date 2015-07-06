@@ -3,8 +3,6 @@ Voyager Components General PHP Libraries
 
 ##About
 
-Author: David Hazel
-
 These libraries are a compilation developed over several years to support
 larger, closed-source systems. The libraries cover many things, from general
 applications to applications specific to the electronic components industry.
@@ -24,6 +22,10 @@ Below is a short list.
 ##Installation
 
 The libraries are compatible with composer and ZendFramework2.
+
+##Attribution
+
+Author: David Hazel
 
 ##Copyright
 
