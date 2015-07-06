@@ -1,0 +1,33 @@
+{
+    "authors": [
+        {
+            "email": "dhazel@gmail.com",
+            "homepage": "https://github.com/dhazel",
+            "name": "David Hazel"
+        },
+        {
+            "email": "mo@voyagercomponents.com",
+            "homepage": "http://voyagercomponents.com",
+            "name": "Mehile Orloff"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "./Module.php"
+        ],
+        "psr-0": {
+            "Vci": "library/"
+        }
+    },
+    "description": "Generic PHP libraries for Voyager Components Inc.",
+    "homepage": "http://voyagercomponents.com/",
+    "keywords": [
+        "Vci",
+        "library"
+    ],
+    "name": "vci/libraries",
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "type": "library"
+}

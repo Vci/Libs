@@ -1,0 +1,12 @@
+# Files to exclude from git
+#
+
+# All backup files
+*~
+
+# All vim swap files
+*.swp
+*.swo
+
+
+/nbproject/private/
